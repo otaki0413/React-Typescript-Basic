@@ -1,2 +1,2 @@
 # React-Typescript-Basic
-Created with CodeSandbox
+Typescriptの基本を学習しました
